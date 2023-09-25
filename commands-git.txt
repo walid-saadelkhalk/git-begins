@@ -16,3 +16,15 @@ Les commandes pour pouvoir push:
 La commande pour pull:
 
 - git pull
+
+
+
+La commande pour créer une branche:
+
+- git branch "nom-de-la-branche"
+
+
+
+La comande qui permet de switcher:
+
+- git checkout "nom-de-la-branche"

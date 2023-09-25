@@ -11,3 +11,8 @@ Les commandes pour pouvoir push:
 - git commit -m "commentaires"
 
 - git push
+
+
+La commande pour pull:
+
+- git pull

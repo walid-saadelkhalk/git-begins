@@ -1,6 +1,6 @@
 La commande pour cloner un repository:
 
-- git clone -m "url-repository"
+- git clone "url-repository"
 
 
 
